@@ -15,10 +15,8 @@ git clone https://github.com/din-bruker/middle-earth-chess.git
 Åpne prosjektet i din foretrukne kodeeditor.
 
 1. Navigate to server-folder in terminal
-2. Kanskje ikke nødvendig? (Run 'npx tsc' in terminal)
-3. Run 'npm run watch' in terminal
-4. Åpne opp en ny terminal samme plass
-5. Run 'npm run dev:script'
+2. Run 'npm run watch' in terminal
+
 
 🛠️ Teknologier
 TypeScript
